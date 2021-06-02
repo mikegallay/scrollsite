@@ -1,0 +1,26 @@
+header{
+    position: fixed;
+    z-index: 10;
+    background-color: black;
+    width: 100%;
+    .header_elements{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        position: relative;
+        padding: 2rem;
+        .header_logo{
+            color:white;
+        }
+        .header_action{
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-end;
+            align-items: center;
+            color:white;
+            div {margin-left: 10px;}
+        }
+    }
+    
+}

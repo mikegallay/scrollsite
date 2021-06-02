@@ -1,0 +1,17 @@
+{
+    "data":[{
+        "path": "/overview/",
+        "name": "Home",
+        "component": "Home"
+    },
+    {
+        "path": "/overview/stuff",
+        "name": "Stuff",
+        "component": "Stuff"
+    },
+    {
+        "path": "/overview/contact",
+        "name": "Contact",
+        "component": "Contact"
+    }]
+  }
